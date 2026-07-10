@@ -82,6 +82,36 @@ The University places a strong emphasis on achieving top-tier performance, redun
     
 18. **Final Testing:** Conduct thorough testing to verify proper communication and ensure that all configured elements function as intended.
 
+0. **Network Design and Enhancement of Its Presentation.**
+
+1. **Basic Configuration on All Devices + SSH + Standard ACL for SSH.**
+
+2. **VLAN Assignment and Configuration of Access Ports and Trunk Links on the Switches.**
+
+2.1. **Configuration of STP PortFast and BPDU Guard on All Access Ports.**
+
+3. **EtherChannel Configuration.**
+
+4. **IP Address Assignment.**
+
+5. **Configuration of HSRP and Inter-VLAN Routing on the Switches, Including DHCP Relay IP Addresses (ip helper-address).**
+
+6. **Configuration of Static IP Addressing for the DMZ and Network Devices/Servers.**
+
+7. **DHCP Server Configuration.**
+
+8. **OSPF Configuration on the Firewall, Routers, and Switches.**
+
+9. **Configuration of Firewall Security Zones and Interface Security Levels.**
+
+10. **Configuration of the Firewall Inspection Policy.**
+
+11. **Wireless Network (Wi-Fi) Configuration.**
+
+12. **IPsec VPN Configuration on the Firewalls.**
+
+13. **Configuration Verification and Testing.**
+
 
 # Advanced Campus Network
 
