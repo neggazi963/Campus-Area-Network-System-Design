@@ -82,6 +82,8 @@ The University places a strong emphasis on achieving top-tier performance, redun
     
 18. **Final Testing:** Conduct thorough testing to verify proper communication and ensure that all configured elements function as intended.
 
+## Network step:
+
 0. **Network Design and Enhancement of Its Presentation.**
 
 1. **Basic Configuration on All Devices + SSH + Standard ACL for SSH.**
