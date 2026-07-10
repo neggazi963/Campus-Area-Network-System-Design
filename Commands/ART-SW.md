@@ -56,7 +56,7 @@ interface Vlan1
  shutdown
  exit
 
-banner motd ^CINHOTHORIZED ACCESS IS PROHIBITED !!!^C
+banner motd INAHTHORIZED ACCESS IS PROHIBITED !!!
 
 access-list 2 permit 0.0.0.0 255.255.255.0
 access-list 2 deny any
