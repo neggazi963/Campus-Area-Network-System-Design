@@ -1,6 +1,6 @@
 # Campus-Area-Network-System-Design-
 
-**Advanced Enterprise Networking Project #12**
+
 
 **Design and Implementation of a Secure Campus Network System**
 
